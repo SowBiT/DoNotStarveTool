@@ -17,3 +17,22 @@ C:\Users\SowBiT\documents\visual studio 2013\Projects\DoNotStarveTool\DoNotStarv
 C:\Users\SowBiT\documents\visual studio 2013\Projects\DoNotStarveTool\DoNotStarveTool\obj\Debug\DoNotStarveTool.application
 C:\Users\SowBiT\documents\visual studio 2013\Projects\DoNotStarveTool\DoNotStarveTool\obj\Debug\DoNotStarveTool.InputDataForm.resources
 C:\Users\SowBiT\documents\visual studio 2013\Projects\DoNotStarveTool\DoNotStarveTool\obj\Debug\DoNotStarveTool.AboutForm.resources
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\bin\Debug\DoNotStarveTool.exe.config
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Debug\DoNotStarveTool.exe
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Debug\DoNotStarveTool.pdb
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Debug\DoNotStarveTool.csprojResolveAssemblyReference.cache
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Debug\DoNotStarveTool.Form1.resources
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Debug\DoNotStarveTool.AboutForm.resources
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Debug\DoNotStarveTool.InputDataForm.resources
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Debug\DoNotStarveTool.MessageBox.resources
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Debug\DoNotStarveTool.Properties.Resources.resources
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Debug\DoNotStarveTool.Form1.vi.resources
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Debug\DoNotStarveTool.csproj.GenerateResource.Cache
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\bin\Debug\DoNotStarveTool.exe.manifest
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\bin\Debug\DoNotStarveTool.application
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\bin\Debug\DoNotStarveTool.exe
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\bin\Debug\DoNotStarveTool.pdb
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\bin\Debug\vi\DoNotStarveTool.resources.dll
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Debug\vi\DoNotStarveTool.resources.dll
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Debug\DoNotStarveTool.exe.manifest
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Debug\DoNotStarveTool.application

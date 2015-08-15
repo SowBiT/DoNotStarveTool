@@ -67,7 +67,10 @@ namespace DoNotStarveTool
             NumSnap = int.Parse(SettingNode.Attributes["value"].Value);
             XmlNode SettingNode2 = xmldoc.SelectSingleNode("//CaiDat[@name='DesPath']");
             DesPath = SettingNode2.Attributes["value"].Value;
-            DesSelected = true;
+            if (DesPath != "")
+            {
+                DesSelected = true;
+            }
             TextBoxDesDir.Text = DesPath;
            
             
