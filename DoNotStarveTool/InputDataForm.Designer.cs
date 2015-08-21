@@ -51,7 +51,7 @@
             this.OkButton.Name = "OkButton";
             this.OkButton.Size = new System.Drawing.Size(133, 51);
             this.OkButton.TabIndex = 1;
-            this.OkButton.Text = "Đồng ý";
+            this.OkButton.Text = "OK";
             this.OkButton.UseVisualStyleBackColor = false;
             this.OkButton.Click += new System.EventHandler(this.OkButton_Click);
             // 
@@ -70,7 +70,7 @@
             this.CancelButton.Name = "CancelButton";
             this.CancelButton.Size = new System.Drawing.Size(133, 51);
             this.CancelButton.TabIndex = 1;
-            this.CancelButton.Text = "Hủy";
+            this.CancelButton.Text = "Cancel";
             this.CancelButton.UseVisualStyleBackColor = false;
             this.CancelButton.Click += new System.EventHandler(this.CancelButton_Click);
             // 
@@ -92,9 +92,9 @@
             this.label1.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(50, 45);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(137, 23);
+            this.label1.Size = new System.Drawing.Size(152, 23);
             this.label1.TabIndex = 3;
-            this.label1.Text = "Tên Snapshot:";
+            this.label1.Text = "Snapshot name:";
             // 
             // pictureBox1
             // 

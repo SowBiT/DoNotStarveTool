@@ -97,24 +97,24 @@ namespace DoNotStarveTool
                             string newDesPath = DesPath + "\\" + SnapshotName;
                             if (Directory.Exists(newDesPath))
                             {
-                                ShowThongBao("Đã tồn tại snapshot với tên này rồi. Không thể tạo thêm ! Vui lòng chọn tên khác.");
+                                ShowThongBao("This Snapshot name exists. Please choose other name !");
                             } else {
                                 SaoLuuSnapShot(SnapshotName);
                                 Directory.CreateDirectory(newDesPath);
                                 CopyFilesRecursively(SourcePath, newDesPath);
-                                ShowThongBao("Đã sao lưu dữ liệu thành công !");
+                                ShowThongBao("Backup completed!");
                             }
                         } else {
-                            ShowThongBao("Snapshot chưa được lưu !"); 
+                            ShowThongBao("Snapshot is unsaved !"); 
                         }
                     }
                 } else { 
                     // chua chon Des path 
-                    ShowThongBao("Chưa chọn thư mục chứa dữ liệu sau khi lưu.");
+                    ShowThongBao("Folder contains the backup data has not been selected.");
                     
                 }
             } else {
-                ShowThongBao("Chưa chọn thư mục cần lưu.");
+                ShowThongBao("Folder contains Don't Starve data has not been selected.");
                 
             }
             button1.BackgroundImage = global::DoNotStarveTool.Properties.Resources.Button_Highlight_Click;         
@@ -144,12 +144,12 @@ namespace DoNotStarveTool
                 if (Directory.Exists(newBackupPath))
                 {
                     CopyFilesRecursively(newBackupPath, SourcePath);
-                    ShowThongBao("Đã khôi phục dữ liệu thành công !");
+                    ShowThongBao("Restore Completed !");
                 } else {
-                    ShowThongBao("Thư mục chứa dữ liệu đã mất ! Không thể khôi phục lại dữ liệu.");
+                    ShowThongBao("Folder contains data has been lost ! Can't restore data.");
                 }              
             } else {
-                ShowThongBao("Chưa chọn Snapshot cần phục hồi !");
+                ShowThongBao("Snapshot has not been selected !");
             }
         }
         private void button2_MouseHover(object sender, EventArgs e)

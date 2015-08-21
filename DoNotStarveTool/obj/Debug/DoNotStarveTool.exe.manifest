@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DoNotStarveTool.exe" size="4257728">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DoNotStarveTool.exe" size="4258240">
       <assemblyIdentity name="DoNotStarveTool" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Oh7BPwBtXC+MTy1yuE8G7cSmfGPg9r7vNZ5g8ZyTBhA=</dsig:DigestValue>
+        <dsig:DigestValue>CO/eSyJdvJWFSTKDqJ3CM1mUnPnQluxTvt474KUFQ2k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

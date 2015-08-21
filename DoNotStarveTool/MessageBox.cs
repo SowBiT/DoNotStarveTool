@@ -50,7 +50,7 @@ namespace DoNotStarveTool
             //CancelButton.Font = myFont;
             richTextBox1.Text = Info;
             OkButton.Text = "OK";
-            CancelButton.Text = "Đóng";
+            CancelButton.Text = "Close";
         }
 
         private void button2_Click(object sender, EventArgs e)

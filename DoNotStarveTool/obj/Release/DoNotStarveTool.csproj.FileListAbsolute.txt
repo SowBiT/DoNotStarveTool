@@ -17,3 +17,22 @@ C:\Users\SowBiT\documents\visual studio 2013\Projects\DoNotStarveTool\DoNotStarv
 C:\Users\SowBiT\documents\visual studio 2013\Projects\DoNotStarveTool\DoNotStarveTool\obj\Release\DoNotStarveTool.csprojResolveAssemblyReference.cache
 C:\Users\SowBiT\documents\visual studio 2013\Projects\DoNotStarveTool\DoNotStarveTool\obj\Release\DoNotStarveTool.AboutForm.resources
 C:\Users\SowBiT\documents\visual studio 2013\Projects\DoNotStarveTool\DoNotStarveTool\obj\Release\DoNotStarveTool.InputDataForm.resources
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\bin\Release\DoNotStarveTool.exe.config
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Release\DoNotStarveTool.exe
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Release\DoNotStarveTool.pdb
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\bin\Release\DoNotStarveTool.exe.manifest
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\bin\Release\DoNotStarveTool.application
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\bin\Release\DoNotStarveTool.exe
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\bin\Release\DoNotStarveTool.pdb
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\bin\Release\vi\DoNotStarveTool.resources.dll
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Release\DoNotStarveTool.csprojResolveAssemblyReference.cache
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Release\DoNotStarveTool.Form1.resources
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Release\DoNotStarveTool.AboutForm.resources
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Release\DoNotStarveTool.InputDataForm.resources
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Release\DoNotStarveTool.MessageBox.resources
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Release\DoNotStarveTool.Properties.Resources.resources
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Release\DoNotStarveTool.Form1.vi.resources
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Release\DoNotStarveTool.csproj.GenerateResource.Cache
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Release\vi\DoNotStarveTool.resources.dll
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Release\DoNotStarveTool.exe.manifest
+E:\Users\Git\DoNotStarveTool\DoNotStarveTool\obj\Release\DoNotStarveTool.application

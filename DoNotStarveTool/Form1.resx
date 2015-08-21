@@ -145,7 +145,7 @@
     <value>0</value>
   </data>
   <data name="button1.Text" xml:space="preserve">
-    <value>Sao Lưu</value>
+    <value>Backup</value>
   </data>
   <data name="&gt;&gt;button1.Name" xml:space="preserve">
     <value>button1</value>
@@ -187,7 +187,7 @@
     <value>1</value>
   </data>
   <data name="PhucHoiButton.Text" xml:space="preserve">
-    <value>Phục Hồi</value>
+    <value>Restore</value>
   </data>
   <data name="&gt;&gt;PhucHoiButton.Name" xml:space="preserve">
     <value>PhucHoiButton</value>
@@ -226,7 +226,7 @@
     <value>2</value>
   </data>
   <data name="button3.Text" xml:space="preserve">
-    <value>Thoát</value>
+    <value>Exit</value>
   </data>
   <data name="&gt;&gt;button3.Name" xml:space="preserve">
     <value>button3</value>
@@ -304,13 +304,13 @@
     <value>24, 509</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>359, 23</value>
+    <value>332, 23</value>
   </data>
   <data name="label1.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Thư mục chứa dữ liệu của Don't Starve.</value>
+    <value>Folder contains data of Don't Starve.</value>
   </data>
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
@@ -337,13 +337,13 @@
     <value>24, 593</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>279, 23</value>
+    <value>297, 23</value>
   </data>
   <data name="label2.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Thư mục chứa dữ liệu sao lưu.</value>
+    <value>Folder contains the backup data.</value>
   </data>
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
     <value>label2</value>
@@ -364,7 +364,7 @@
     <value>Flat</value>
   </data>
   <data name="ButtonDesSelect.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Arial, 12pt</value>
+    <value>Arial, 12pt, style=Bold</value>
   </data>
   <data name="ButtonDesSelect.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -379,7 +379,7 @@
     <value>5</value>
   </data>
   <data name="ButtonDesSelect.Text" xml:space="preserve">
-    <value>Chọn</value>
+    <value>...</value>
   </data>
   <data name="ButtonDesSelect.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopCenter</value>
@@ -403,7 +403,7 @@
     <value>Flat</value>
   </data>
   <data name="ButtonSourceSelect.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Arial, 12pt</value>
+    <value>Arial, 12pt, style=Bold</value>
   </data>
   <data name="ButtonSourceSelect.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -418,7 +418,7 @@
     <value>5</value>
   </data>
   <data name="ButtonSourceSelect.Text" xml:space="preserve">
-    <value>Chọn</value>
+    <value>...</value>
   </data>
   <data name="ButtonSourceSelect.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopCenter</value>
@@ -448,16 +448,16 @@
     <value>NoControl</value>
   </data>
   <data name="XoaSnapShotButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>469, 457</value>
+    <value>469, 466</value>
   </data>
   <data name="XoaSnapShotButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>126, 58</value>
+    <value>126, 49</value>
   </data>
   <data name="XoaSnapShotButton.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
   </data>
   <data name="XoaSnapShotButton.Text" xml:space="preserve">
-    <value>Xóa</value>
+    <value>Remove</value>
   </data>
   <data name="&gt;&gt;XoaSnapShotButton.Name" xml:space="preserve">
     <value>XoaSnapShotButton</value>
@@ -510,15 +510,39 @@
   <metadata name="SnapID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
+  <data name="SnapID.HeaderText" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="SnapID.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <metadata name="Column1.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
+  <data name="Column1.HeaderText" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="Column1.Width" type="System.Int32, mscorlib">
+    <value>120</value>
+  </data>
   <metadata name="Column2.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
+  <data name="Column2.HeaderText" xml:space="preserve">
+    <value>Date Backup</value>
+  </data>
+  <data name="Column2.Width" type="System.Int32, mscorlib">
+    <value>150</value>
+  </data>
   <metadata name="NodeLink.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
+  <data name="NodeLink.HeaderText" xml:space="preserve">
+    <value>Thư mục</value>
+  </data>
+  <data name="NodeLink.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="dataGridView1.Location" type="System.Drawing.Point, System.Drawing">
     <value>28, 286</value>
   </data>
@@ -540,42 +564,6 @@
   <data name="&gt;&gt;dataGridView1.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <metadata name="SnapID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <data name="SnapID.HeaderText" xml:space="preserve">
-    <value>ID</value>
-  </data>
-  <data name="SnapID.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <metadata name="Column1.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <data name="Column1.HeaderText" xml:space="preserve">
-    <value>Tên</value>
-  </data>
-  <data name="Column1.Width" type="System.Int32, mscorlib">
-    <value>120</value>
-  </data>
-  <metadata name="Column2.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <data name="Column2.HeaderText" xml:space="preserve">
-    <value>Ngày tháng</value>
-  </data>
-  <data name="Column2.Width" type="System.Int32, mscorlib">
-    <value>150</value>
-  </data>
-  <metadata name="NodeLink.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <data name="NodeLink.HeaderText" xml:space="preserve">
-    <value>Thư mục</value>
-  </data>
-  <data name="NodeLink.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
   <data name="button2.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>Stretch</value>
   </data>
@@ -593,6 +581,9 @@
   </data>
   <data name="button2.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
+  </data>
+  <data name="button2.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
   </data>
   <data name="&gt;&gt;button2.Name" xml:space="preserve">
     <value>button2</value>
@@ -1282,6 +1273,9 @@
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
 </value>
   </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>
   </data>
@@ -1293,6 +1287,18 @@
   </data>
   <data name="&gt;&gt;FolderSelectDialog.Type" xml:space="preserve">
     <value>System.Windows.Forms.FolderBrowserDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
+    <value>toolTip1</value>
+  </data>
+  <data name="&gt;&gt;toolTip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolTip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;snapshotItemBindingSource.Name" xml:space="preserve">
+    <value>snapshotItemBindingSource</value>
+  </data>
+  <data name="&gt;&gt;snapshotItemBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;SnapID.Name" xml:space="preserve">
     <value>SnapID</value>
@@ -1317,18 +1323,6 @@
   </data>
   <data name="&gt;&gt;NodeLink.Type" xml:space="preserve">
     <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
-    <value>toolTip1</value>
-  </data>
-  <data name="&gt;&gt;toolTip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolTip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;snapshotItemBindingSource.Name" xml:space="preserve">
-    <value>snapshotItemBindingSource</value>
-  </data>
-  <data name="&gt;&gt;snapshotItemBindingSource.Type" xml:space="preserve">
-    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>Form1</value>
