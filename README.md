@@ -1,2 +1,2 @@
 # DoNotStarveTool
-Don't Starve simple backup save folder.
+Don't Starve simple backup tool.
